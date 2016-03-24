@@ -1,0 +1,18 @@
+{
+    "name": "pmvc-plugin/hi_bouncer",
+    "description": "Bouncer Tool",
+    "type": "library",
+    "keywords": ["bouncer", "curl", "pmvc", "plug-in"],
+    "homepage": "https://github.com/pmvc/pmvc/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hill",
+            "email": "hill@kimo.com"
+        }
+    ],
+    "require": {
+        "pmvc/pmvc": "*"
+    },
+    "minimum-stability": "dev"
+}

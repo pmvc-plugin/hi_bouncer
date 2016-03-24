@@ -4,7 +4,7 @@
 [![License](https://poser.pugx.org/pmvc-plugin/hi_bouncer/license)](https://packagist.org/packages/pmvc-plugin/hi_bouncer)
 [![Total Downloads](https://poser.pugx.org/pmvc-plugin/hi_bouncer/downloads)](https://packagist.org/packages/pmvc-plugin/hi_bouncer) 
 
-hi_bouncer
+Hi! Bouncer.
 ===============
 
 ## Install with Composer

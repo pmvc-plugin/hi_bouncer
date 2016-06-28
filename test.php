@@ -1,6 +1,6 @@
 <?php
 PMVC\Load::plug();
-PMVC\addPlugInFolder('../');
+PMVC\addPlugInFolders(['../']);
 class Hi_bouncerTest extends PHPUnit_Framework_TestCase
 {
     private $_plug = 'hi_bouncer';

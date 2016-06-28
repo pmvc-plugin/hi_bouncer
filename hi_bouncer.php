@@ -19,7 +19,6 @@ class hi_bouncer extends \PMVC\PlugIn
         $post_params = [];
         
         foreach($data['PARAMS'] as $param){
-            $param = (array)json_decode($param);
             $param[1] = str_replace(
                 ['[USER]','[PASS]'],
                 [$this['user'], $this['pass']],
